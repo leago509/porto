@@ -1,5 +1,5 @@
 import collection from "./collection.js";
-import gsap from "gsap";
+//import gsap from "gsap";
 import SplitText from "gsap/SplitText";
 
 document.addEventListener("DOMContentLoaded", () => {
